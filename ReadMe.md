@@ -25,13 +25,13 @@ open unrelated issues or discussion in these.**
 # Birth Of View-Holder
 
 ### Component interaction Diagram - View Cache Pass
-<img src="1.View-Holder-Birth-View-Cache-Pass.png">
+<img src="1.View-Holder-Birth-View-Cache-Pass.png" height="400px">
 
 ### Component interaction Diagram - View Cache Miss - Recycler Poll - Pass
-<img src="2.View-Holder-Birth-RecyclerPool-Pass.png">
+<img src="2.View-Holder-Birth-RecyclerPool-Pass.png" height="360px" >
 
 ### Component interaction Diagram - View Cache Miss - Recycler Poll - Miss
-<img src="3.View-Holder-Birth-Recycler-Pool-Miss.png">
+<img src="3.View-Holder-Birth-Recycler-Pool-Miss.png" height="360px">
 
 ## :eyes: Social
 
