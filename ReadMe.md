@@ -1,4 +1,4 @@
-# Create your own Recycler View
+# Recycler View Internals - Create your own Recycler View 
 Recycler view is one of the major UI component of Android Ecosystem,
 and Most popular resource to learn it from is [RecyclerView ins and outs - Google I/O 2016](https://www.youtube.com/watch?v=LqBlYJTfLP4&t=1797s)
 
@@ -10,6 +10,10 @@ or use it ace your next technical interview.
 So, help yourself and have a snack on the Code and as Always Happy Hacking!
 
 Chetan Gupta.
+
+**Note : I plan to covered only the things that are covered in video and did my own slight improvements to
+connect things together where content isn't discussed in the Video, I won't be going far and behond the video
+so please don't open unrelated issues or discussion in these.**
 
 ## :eyes: Social
 [LinkedIn](https://bit.ly/ch8n-linkdIn) |

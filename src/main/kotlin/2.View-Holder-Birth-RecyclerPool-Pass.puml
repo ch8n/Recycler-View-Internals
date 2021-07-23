@@ -1,0 +1,19 @@
+@startuml
+'tutorial : https://plantuml.com/component-diagram
+
+' 2.View-Holder : Birth View Cache Pass | Recycler pool pass
+[Layout Manager] --> [Recycler] : 1. getViewForPosition
+[Recycler] --> [View Cache] : 2. getViewForPosition
+[View Cache] --> [Recycler] : 3. error | null
+[Recycler] --> [Adapter] : 4. getViewType
+[Adapter] --> [Recycler] : 5. ViewType
+[Recycler] --> [RecyclerPool] : 6. getViewHolderByType
+[RecyclerPool] --> [Recycler] : 7. ViewHolder
+[Recycler] --> [Adapter] : 8. bindViewHolder
+[Adapter] --> [Recycler] : 9. View
+[Recycler] --> [View Cache] : 10. Cache View
+[Recycler] --> [Layout Manager] : 11. View
+@enduml
+
+
+
