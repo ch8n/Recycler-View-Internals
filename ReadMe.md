@@ -22,16 +22,16 @@ open unrelated issues or discussion in these.**
 - [ ] Death of Recycler View
 - [ ] Animation on RecyclerView Operation
 
-# Birth Of View-Holder
+# [Birth Of View-Holder](https://github.com/ch8n/DIY-Recycler-View-Internals/blob/main/src/main/kotlin/RecyclerView.kt)
 
 ### Component interaction Diagram - View Cache Pass
-<img src="1.View-Holder-Birth-View-Cache-Pass.png" height="400px">
+<img src="1.View-Holder-Birth-View-Cache-Pass.png" height="360px">
 
 ### Component interaction Diagram - View Cache Miss - Recycler Poll - Pass
-<img src="2.View-Holder-Birth-RecyclerPool-Pass.png" height="360px" >
+<img src="2.View-Holder-Birth-RecyclerPool-Pass.png" height="280px">
 
 ### Component interaction Diagram - View Cache Miss - Recycler Poll - Miss
-<img src="3.View-Holder-Birth-Recycler-Pool-Miss.png" height="360px">
+<img src="3.View-Holder-Birth-Recycler-Pool-Miss.png" height="280px">
 
 ## :eyes: Social
 
